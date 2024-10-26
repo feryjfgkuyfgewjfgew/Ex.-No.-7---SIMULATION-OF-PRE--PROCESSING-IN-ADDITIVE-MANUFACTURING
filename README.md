@@ -47,8 +47,8 @@
 
 ![image](https://github.com/user-attachments/assets/462b9ce4-d9b6-4248-9c44-809e7f825933)
 
-### Name:V.Prithviraj
-### Register Number:212222100038
+### Name:naresh.r
+### Register Number:212223240104
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
